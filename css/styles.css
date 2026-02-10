@@ -1,0 +1,48 @@
+body {
+  font-family: Arial;
+  background: #f4f6f8;
+  margin: 0;
+}
+
+nav {
+  background: #1e40af;
+  color: white;
+  padding: 12px;
+}
+
+nav a {
+  color: white;
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+.container {
+  padding: 30px;
+}
+
+.grid {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 500px;
+  margin-bottom: 20px;
+}
+
+input, textarea, button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+footer {
+  background: #111827;
+  color: white;
+  padding: 12px;
+  text-align: center;
+}

@@ -1,9 +1,3 @@
-Sure — here’s a **simpler, clearer README.md** that still looks professional but is easier to understand.
-
-You can paste this directly into GitHub.
-
----
-
 # SkillBridge
 
 ### Apprenticeship Matching & Employability Tracking System
